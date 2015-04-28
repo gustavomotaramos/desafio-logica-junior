@@ -1,11 +1,15 @@
-import java.util.ArrayList;
-
 public class Inversor {
 
-	public static void main(String[] args) {
-
-	}
-
+	
+	/**
+	* Método responsável por inverter a string
+	*
+	* @author  Gustavo Ramos
+	* @version 1.0
+	* @param String
+	* @return String
+	* @since   2015-04-28 
+	*/
 	public String inverte(String palavraInserida) {
 
 		// É iniciado com vazio para não dar problema na concatenação
